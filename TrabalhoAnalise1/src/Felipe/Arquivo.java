@@ -37,7 +37,6 @@ public class Arquivo {
        
         this.qtdVertices = Integer.parseInt(scanner.nextLine());
         this.qtdArestas = Integer.parseInt(scanner.nextLine());
-   
         
         start(qtdVertices);
         
